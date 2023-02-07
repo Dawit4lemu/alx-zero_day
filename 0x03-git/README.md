@@ -1,1 +1,1 @@
-0_day
+Starting to code today, so cool
